@@ -1,0 +1,61 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="BDCmWB,y7@PgsNgM~[0y" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="~cCH~F!1O:3Qc0M3)9)y"><field name="LEDS">`
+        . . . # . 
+        . . . . # 
+        . . . # . 
+        . . . # . 
+        . . # # .
+        `</field><next><block type="device_show_leds" id="kHV8O6k}X9^5aws:{Kq#"><field name="LEDS">`
+        . . # . . 
+        . # # # # 
+        # . # . . 
+        . # . . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="bSUR=Uj:$;#nW{l*NcA["><field name="LEDS">`
+        . # . . . 
+        # # # # . 
+        # # . . . 
+        # . # . . 
+        # . . # .
+        `</field><next><block type="device_show_leds" id="Rf(5.j(Jh-qmL*^[YQfR"><field name="LEDS">`
+        . . # . . 
+        # # # # . 
+        . . # . # 
+        . . . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="O77fv|`4N_Bk9]u|*292"><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="QO2?=BVQ@*QgIUMp4H-,"><field name="LEDS">`
+        # . # . . 
+        . # # # # 
+        . . # . . 
+        . # . # . 
+        . # . . #
+        `</field><next><block type="device_show_leds" id="btGLH;l(vJ-Tzy/XYt)="><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="h~O_C8RE*6qrX#TPpckj"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="XJdSj`eav;V2p2Qfh_eu"><field name="LEDS">`
+        # . # . . 
+        # # # . . 
+        . . # . . 
+        . . # # . 
+        . . # . #
+        `</field><next><block type="device_show_leds" id="V(l^uX]6HT]%?,9[Tza;"><field name="LEDS">`
+        . . # . # 
+        # # # # . 
+        . . # . . 
+        . # . # . 
+        # . . # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
